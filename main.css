@@ -3,4 +3,3 @@ body{font-family:Arial}.A1{background-color:#d3d3d3;border:5px solid :#fff;color
 .mainads { width: 300px; height: 250px; }
 @media(min-width: 500px) { .mainads { width: 400px; height: 300px; } }
 @media(min-width: 800px) { .mainads { width: 728px; height: 300px; } }
-.search	{ background: #006699; border:1px dashed #fff; padding:2px; color: #fff; font-weight:bold; }
