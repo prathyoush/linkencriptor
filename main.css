@@ -1,9 +1,11 @@
 body {
     font-family: Arial
-      max-width: 900px;
+     
+}
+.contaner{
+     max-width: 900px;
 margin: 0px auto
 }
-
 .A1 {
     background-color: #d3d3d3;
     border: 5px solid:#fff;
