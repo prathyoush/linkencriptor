@@ -2,7 +2,13 @@ body {
     font-family: Arial
   
 }
-
+.logo {
+    background: #ff1493;
+    padding: 2px;
+    text-align: center;
+	font-size:20px;
+	font-weight:bold;
+	}
 .A1 {
     background-color: #d3d3d3;
     border: 5px solid:#fff;
