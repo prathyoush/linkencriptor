@@ -5,6 +5,7 @@ body {
 .logo {
     background: #ff1493;
     padding: 2px;
+	color:#fff;
     text-align: center;
 	font-size:20px;
 	font-weight:bold;
