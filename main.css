@@ -319,10 +319,6 @@ h1 {
     color: #a00
 }
 
-.button {
-    color: #086c8f;
-    font-weight: 700
-}
 
 .red {
     color: red
@@ -763,7 +759,9 @@ input[type=textarea] {
     margin: 1px;
     size: small
 }
-
+button {
+	display :none
+}
 .button {
     background-color: #ff1493;
     border: none;
