@@ -21,7 +21,8 @@ color: #fff;
 
 .A2 {
     background-color:#fff;
-    border: none;
+      border-bottom: 1px solid#ccc;
+
     padding: 5px;
     font-weight: 400
 }
