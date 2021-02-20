@@ -759,9 +759,7 @@ input[type=textarea] {
     margin: 1px;
     size: small
 }
-button {
-	display :none
-}
+
 .button {
     background-color: #ff1493;
     border: none;
