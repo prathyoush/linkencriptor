@@ -4,7 +4,7 @@
     font-family: 'Merienda Regular';
     font-style: normal;
     font-weight: normal;
-    src: local('Merienda Regular'), url('Merienda-Regular.woff') format('woff');
+    src: local('Merienda Regular'), url('/linkencriptor/Merienda-Regular.woff') format('woff');
     }
     
 
@@ -12,5 +12,5 @@
     font-family: 'Merienda Bold';
     font-style: normal;
     font-weight: normal;
-    src: local('Merienda Bold'), url('Merienda-Bold.woff') format('woff');
+    src: local('Merienda Bold'), url('/linkencriptor/Merienda-Bold.woff') format('woff');
     }
