@@ -774,7 +774,7 @@ input[type=textarea] {
   margin: 4px 2px;
 }
 .button:hover{
-    background-color: #f4f4f4;
+    background-color: #fff;
     color: #ff1493;
    border: 2px solid #ff1493;
 }
