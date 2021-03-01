@@ -773,7 +773,7 @@ input[type=textarea] {
     color: #fff;
     width: 200px;
 }
-.button{
+.button:hover{
     background-color: #f4f4f4;
     color: #ff1493;
    
