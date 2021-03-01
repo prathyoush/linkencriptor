@@ -764,13 +764,17 @@ input[type=textarea] {
 
 .button {
     background-color: #ff1493;
-    border: none;
-    color: #fff;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
+  text-align: center;
+    padding: 9px;
+    border-radius: 5px;
+    margin: 10px;
     display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer
+    font-weight: 700;
+    color: #fff;
+    width: 200px;
+}
+.button{
+    background-color: #f4f4f4;
+    color: #ff1493;
+   
 }
