@@ -778,3 +778,6 @@ input[type=textarea] {
     color: #ff1493;
    border: 2px solid #ff1493;
 }
+.tumb{
+max-width:900px;
+}
