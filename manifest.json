@@ -1,0 +1,25 @@
+{
+    "name": "Lyrics4u",
+    "short_name": "Lyrics4u",
+    "description": "Get Lyrics Of Malayalam, Tamil, Telugu, Hindi Songs with dark mode and much more interesting.",
+    "icons": [
+    
+      "src": "/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image\/png",
+      "density": "4.0",
+      "purpose": "any maskable"
+     },
+     {
+       "src": "https://prathyoush.github.io/linkencriptor/lyricsicon.png",
+       "sizes": "512x512",
+       "type": "image\/png",
+       "density": "5.0"
+      }
+    ],
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#825ee4"
+   }
