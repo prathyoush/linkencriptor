@@ -17,8 +17,8 @@
        "density": "5.0"
       }
     ],
-    "start_url": "/",
-    "scope": "/",
+    "start_url": "https://lyrics4u.themallunews.in/",
+    "scope": "https://lyrics4u.themallunews.in/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#825ee4"
