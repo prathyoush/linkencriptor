@@ -4,7 +4,7 @@
     "description": "Get Lyrics Of Malayalam, Tamil, Telugu, Hindi Songs with dark mode and much more interesting.",
     "icons": [
     
-      "src": "/android-icon-192x192.png",
+      "src": "https://prathyoush.github.io/linkencriptor/android-icon-192x192.png",
       "sizes": "192x192",
       "type": "image\/png",
       "density": "4.0",
